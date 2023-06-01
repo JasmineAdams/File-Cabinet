@@ -1,3 +1,3 @@
 ## Compatability Survey Results
 
-* Matched responses by hamming distance in R
+* Responses matched by hamming distance in R
