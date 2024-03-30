@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Jasmine Adams:mailto:jadams@frankliniq.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Adams, Jas
+ mine J CTR (USA)":mailto:jasmine.j.adams5.ctr@health.mil
+DESCRIPTION:\nEvidence-Based and Promising Practices in Pediatric Care for 
+ Military Children and Youth\nThursday\, April 4\, from 8:55 AM to 5:30 PM 
+ ET\n\nJoin Microsoft Teams Meeting<https://dod.teams.microsoft.us/l/meetup
+ -join/19%3adod%3ameeting_566271cb65344dc7b46ec26b2f3d48c0%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%228903a443-af33-4ed4-acf5-ee613bcb2f59%22%2c%22Oid%2
+ 2%3a%229417ac16-7564-40a8-901b-4f24688f9a62%22%7d>\nMeeting room opens 15 
+ minutes before the start of the event.\n\n\nEvent Schedule:\n\n8:55 AM –
+  9:10 AM ET\nWelcome and Opening Remarks\n9:10 AM – 10:10 AM ET\nS01: Ov
+ erdiagnosis or Underdiagnosis? Considerations for Diagnosing and Treating 
+ ADHD and Autism\n10:20 AM – 11:20 AM ET\nS02: Or At Least Do No Harm: Th
+ e Complexities of Pediatric Healthcare Ethics\n11:30 AM – 1:00 PM ET\nS0
+ 3: DHA Immunizations and CDC Covid-19 Updates\n1:00 PM – 2:00 PM ET\nLUN
+ CH BREAK\n2:00 PM – 3:00 PM ET\nS04: Mental Health Needs Amongst Militar
+ y Children and Youth: Strategies to Improve Access and Outcomes\n3:10 PM 
+ – 4:10 PM ET\nS05: The Millennium Cohort Program: Understanding Risk and
+  Context in the Life Course of the Military Child\n4:20 PM – 5:20 PM ET\
+ nS06: Addressing Problematic Technology Use in Children and Youth\n5:20 PM
+  – 5:30 PM ET\nClosing Remarks\n\nCourse registration Page: https://www.
+ dhaj7-cepo.com/content/2024-apr-ccss\n\n
+UID:040000008200E00074C5B7101A82E00800000000E508C553CD80DA01000000000000000
+ 010000000DC01ECCCE7F5784587341FAD3AB5FE0B
+SUMMARY:CCSS: Evidence-Based and Promising Practices in Pediatric Care for 
+ Military Children and Youth
+DTSTART:20240404T125000Z
+DTEND:20240404T212500Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240330T041439Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+LOCATION:Microsoft Teams
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
+X-MICROSOFT-ONLINEMEETINGCONFLINK:
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
